@@ -1,3 +1,23 @@
-# Data Analysis and Visualization of Salary Data
+# Data Analysis and Visualization with Python
 
-In this project, I built a Python program to analyze and visualize individuals' age and salary data. Using Pandas, I organized the data in a DataFrame, calculated average age and salary, and displayed these insights. Used Matplotlib to create a color-coded bar chart of salaries for easy comparison. This project highlights data analysis, statistical calculation, and clear data visualization with Python.
+This repository contains a simple data analysis and visualization project that explores salary data for individuals. The project demonstrates basic data analysis using Python, pandas, and matplotlib, with a focus on calculating averages and visualizing salary comparisons through bar charts.
+
+## Project Overview
+
+The project takes in a sample dataset of individuals' names, ages, salaries, and colors, and performs the following tasks:
+
+1. **Data Preparation**: Creates a pandas DataFrame from a dictionary containing names, ages, salaries, and associated colors.
+2. **Data Analysis**: Calculates the average age and salary of the individuals in the dataset.
+3. **Data Visualization**: Plots a bar chart visualizing the salary of each individual with different colors.
+
+## Features
+
+- **Average Age Calculation**: Computes the average age of individuals in the dataset.
+- **Average Salary Calculation**: Computes the average salary of individuals in the dataset.
+- **Bar Chart Visualization**: A bar chart visualizes individual salaries with distinct colors for easy comparison.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Salary-Analysis-and-Visualization.git
