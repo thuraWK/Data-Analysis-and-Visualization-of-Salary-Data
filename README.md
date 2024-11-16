@@ -21,3 +21,7 @@ The project takes in a sample dataset of individuals' names, ages, salaries, and
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Salary-Analysis-and-Visualization.git
+
+2. Install the required dependencies:
+   ```bash
+   pip install pandas matplotlib
