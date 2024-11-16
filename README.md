@@ -35,13 +35,14 @@ Run the Python script to see the output DataFrame and the salary visualization:
    ```bash
    python salary_analysis.py
 
+
+# Example Output
 Example Output
 DataFrame:
 The dataset will be printed showing names, ages, salaries, and their corresponding colors.
 
 Average Values:
 The average age and salary of individuals in the dataset will be calculated and displayed.
-
 Graph:
 A bar chart will be generated, showing the salary distribution of individuals, with different colors for each bar.
 
