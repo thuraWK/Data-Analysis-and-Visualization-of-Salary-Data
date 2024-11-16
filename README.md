@@ -26,18 +26,16 @@ The project takes in a sample dataset of individuals' names, ages, salaries, and
    ```bash
    pip install pandas matplotlib
 
-# Usage
+## Usage
 
 To run the project:
 
 Ensure that you have the necessary libraries installed (pandas and matplotlib).
 Run the Python script to see the output DataFrame and the salary visualization:
-   ```bash
    python salary_analysis.py
 
+## Example Output
 
-# Example Output
-Example Output
 DataFrame:
 The dataset will be printed showing names, ages, salaries, and their corresponding colors.
 
